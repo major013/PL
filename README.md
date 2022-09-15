@@ -3,8 +3,8 @@
 - 姓名：江安沂
 - 系級：地理系三年級
 ## 課程筆記區
+[python01練習](https://github.com/major013/PL/blob/main/Untitled.ipynb)
 ## 作業連結區
-[python01](https://github.com/major013/PL/blob/main/Untitled.ipynb)
 ## 專題連結區
 
 
