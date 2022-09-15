@@ -10,6 +10,8 @@
 -
 作業連結區
 -
+[python01](http://localhost:8888/notebooks/Documents/GitHub/PL/Untitled.ipynb?kernel_name=python3)
+
 專題連結區
 -
 
