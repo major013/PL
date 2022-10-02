@@ -5,6 +5,7 @@
 ## 課程筆記區
 [python01練習](https://github.com/major013/PL/blob/main/python01.ipynb)
 ## 作業連結區
+[作業1](https://github.com/major013/PL/blob/main/Homework01.ipynb)
 ## 專題連結區
 
 
