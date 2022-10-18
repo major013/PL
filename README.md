@@ -7,7 +7,7 @@
 - [python04練習](https://github.com/major013/PL/blob/main/practice/python04.ipynb)
 ## 作業連結區
 - [作業01](https://github.com/major013/PL/blob/main/homework/Homework01.ipynb)
-- [作業02](https://github.com/major013/PL/blob/main/homework/Homework02.ipynb)
+- [作業02](https://github.com/major013/PL/blob/main/Homework02.ipynb)
 ## 專題連結區
 
 
