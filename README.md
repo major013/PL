@@ -1,5 +1,4 @@
 # 111-1師大科技系程式語言
-===
 - 授課老師：蔡芸琤老師
 - 姓名：江安沂
 - 系級：地理系三年級
@@ -10,8 +9,7 @@
 - [作業01](https://github.com/major013/PL/blob/main/homework/Homework01.ipynb)
 - [作業02](https://github.com/major013/PL/blob/main/homework/Homework02.ipynb)
 - [作業03](https://github.com/major013/PL/blob/main/homework/Homework03.ipynb)
->csv
->json
+  -csv
 ## 專題連結區
 
 
