@@ -9,7 +9,8 @@
 - [作業01](https://github.com/major013/PL/blob/main/homework/Homework01.ipynb)
 - [作業02](https://github.com/major013/PL/blob/main/homework/Homework02.ipynb)
 - [作業03](https://github.com/major013/PL/blob/main/homework/Homework03.ipynb)
-
+  csv
+  json
 ## 專題連結區
 
 
