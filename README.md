@@ -11,7 +11,7 @@
 - [作業03](https://github.com/major013/PL/blob/main/homework/Homework03.ipynb)
   - [csv](https://github.com/major013/PL/blob/main/homework/eyesonplace.csv)
   - [json](https://github.com/major013/PL/blob/main/homework/eyesonplace.json)
- -[作業04](https://medium.com/@tzefira13/%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98-%E5%89%8Dnba%E7%90%83%E6%98%9F-%E9%AD%94%E7%8D%B8-%E9%9C%8D%E8%8F%AF%E5%BE%B7-dwight-howard-%E5%8A%A0%E7%9B%9Ft1%E6%A1%83%E5%9C%92%E6%B0%B8%E8%B1%90%E9%9B%B2%E8%B1%B9%E9%9A%8A-%E5%B8%AD%E6%8D%B2ptt-basketballtw-%E5%8F%B0%E7%81%A3%E7%B1%83%E7%90%83%E7%89%88-d4f6c855d42f)
+- [作業04](https://medium.com/@tzefira13/%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98-%E5%89%8Dnba%E7%90%83%E6%98%9F-%E9%AD%94%E7%8D%B8-%E9%9C%8D%E8%8F%AF%E5%BE%B7-dwight-howard-%E5%8A%A0%E7%9B%9Ft1%E6%A1%83%E5%9C%92%E6%B0%B8%E8%B1%90%E9%9B%B2%E8%B1%B9%E9%9A%8A-%E5%B8%AD%E6%8D%B2ptt-basketballtw-%E5%8F%B0%E7%81%A3%E7%B1%83%E7%90%83%E7%89%88-d4f6c855d42f)
 ## 專題連結區
 
 
